@@ -2,7 +2,7 @@
 
 ### Descrição do Aplicativo:
 
- **Nome:** Aplicativo Jogo Pedra, Papel, Tesoura
+ **Nome:** Jogo Pedra, Papel, Tesoura
 
  **Objetivo:** Nesse jogo o usuário vai disputar contra o aplicativo e haverá um placar indicando quem fez mais pontos até determinado momento.
 
