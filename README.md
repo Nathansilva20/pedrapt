@@ -10,4 +10,4 @@
 
 **Captura de tela:** 
 
-![Captura de tela 2024-04-11 204847](https://github.com/Nathansilva20/PedraPapelTesoura/assets/114961313/3f49526b-303e-460d-b947-e31a66db9c17)
+![Captura de tela 2024-04-11 204847](https://github.com/Nathansilva20/pedrapt/assets/114961313/5aa547e0-1fcc-481d-8ddc-0b236bc94c2b)
